@@ -447,6 +447,7 @@ pod "kubernetes-dashboard-3313488171-sxc9n" deleted
 [K8s - 解决主机重启后kubelet无法自动启动问题](https://www.hangge.com/blog/cache/detail_2419.html)
 
 [[k8s]kubernetes安装dashboard步骤](https://www.jianshu.com/p/073577bdec98)
+[windows如何访问k8s的dashboard](https://www.jianshu.com/p/4e65e28fa8af)
 
 
 
